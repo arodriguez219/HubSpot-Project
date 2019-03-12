@@ -1,0 +1,8 @@
+.background {
+  height: 100vh;
+  min-height: 500px;
+  background-image: url('https://cdn.cnn.com/cnnnext/dam/assets/160901155821-chicago-viz-bg-7-super-43.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
